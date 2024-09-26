@@ -1,0 +1,26 @@
+body { 
+    background-image: url("branco.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} 
+
+   
+
+nav{ 
+
+    display: flex; 
+
+    justify-content: space-around; 
+
+    background-color: rgba(172, 166, 166, 0.884); 
+
+    padding: 40px 10px; 
+
+} 
+
+a{ 
+
+    color: rgb(7, 36, 253); 
+
+}
